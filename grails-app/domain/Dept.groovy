@@ -4,4 +4,5 @@
 class Dept {
     Integer id
     String name
+    String ceshi
 }
